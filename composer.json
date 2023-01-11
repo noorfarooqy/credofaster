@@ -1,0 +1,22 @@
+{
+    "name": "noorfarooqy/credofaster",
+    "description": "Credofaster Laravel Package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Noorfarooqy\\Credofaster\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Noor Abdi",
+            "email": "57824560+noorfarooqy@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "apimatic/unirest-php": "^2.0.0",
+        "apimatic/jsonmapper": "^1.3.1"
+    },
+    "minimum-stability": "stable"
+}
